@@ -10,7 +10,7 @@ Maven
 <pre>
 &lt;repositories&gt;
 	&lt;repository&gt;
-		&lt;id&gt;marza-repo&lt;/id&gt;
+		&lt;id&gt;marza-mvn-repo&lt;/id&gt;
 		&lt;url&gt;https://github.com/marza/mvn-repo/raw/master/releases&lt;/url&gt;
     &lt;/repository&gt;
 &lt;/repositories&gt;
