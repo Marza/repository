@@ -1,7 +1,7 @@
-mvn-repo
+marza-repository
 ========
 
-Marza's Maven Repository
+Repository for se.marza dependencies.
 
 
 Maven
