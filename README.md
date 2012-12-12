@@ -20,5 +20,5 @@ SBT
 ----
 
 <pre>
-resolvers += "Marza's Maven Repository" at "https://github.com/marza/mvn-repo/raw/master/releases"
+resolvers += "marza-mvn-repo" at "https://github.com/marza/mvn-repo/raw/master/releases"
 </pre>
